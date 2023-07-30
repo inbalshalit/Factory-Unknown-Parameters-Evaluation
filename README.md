@@ -1,1 +1,3 @@
 # pulsenmore_assignemnt
+in this repo there are the two csv files that were attached to this assignment as well as a pre-evaluated .ipynb notebook displaying my work. in order to view the notebook - 
+thank you for taking the time to review my assignment 
